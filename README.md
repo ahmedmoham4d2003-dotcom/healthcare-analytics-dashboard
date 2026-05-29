@@ -1,6 +1,6 @@
-# 🏥 Healthcare Analytics Dashboard
+#  Healthcare Analytics Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 An interactive Power BI dashboard designed to analyze healthcare operations, patient activity, hospital performance, and financial metrics using a multi-fact star schema data model.
 
 The project combines operational analytics with financial reporting to provide actionable insights into:
@@ -13,7 +13,7 @@ The project combines operational analytics with financial reporting to provide a
 
 ---
 
-# 🎯 Business Objectives
+#  Business Objectives
 - Monitor hospital operational performance
 - Analyze patient visit behavior
 - Track readmission rates
@@ -23,7 +23,7 @@ The project combines operational analytics with financial reporting to provide a
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 - Power BI
 - Power Query
 - DAX
@@ -32,7 +32,7 @@ The project combines operational analytics with financial reporting to provide a
 
 ---
 
-# 🧩 Data Model
+#  Data Model
 
 The dashboard was built using a multi-fact Star Schema model for optimized analytical reporting and scalability.
 
@@ -67,13 +67,13 @@ Contains financial and billing data including:
 
 ---
 
-## ⭐ Star Schema Design
+## Star Schema Design
 
 ![Star Schema](star-schema.png)
 
 ---
 
-# 📊 Dataset Information
+#  Dataset Information
 - 500K+ healthcare visit records
 - Financial and operational healthcare data
 - Multi-hospital performance tracking
@@ -82,7 +82,7 @@ Contains financial and billing data including:
 
 ---
 
-# 🧹 Data Preparation
+#  Data Preparation
 Performed extensive data cleaning and transformation using Power Query:
 - Removed inconsistencies
 - Corrected data types
@@ -93,7 +93,7 @@ Performed extensive data cleaning and transformation using Power Query:
 
 ---
 
-# 🧠 Advanced DAX Measures
+#  Advanced DAX Measures
 
 ## Operational Metrics
 - Total Visits
@@ -115,9 +115,9 @@ Performed extensive data cleaning and transformation using Power Query:
 
 ---
 
-# 📂 Dashboard Pages
+#  Dashboard Pages
 
-## 1️⃣ Executive Overview
+## Executive Overview
 Provides a high-level overview of:
 - Total visits
 - Patient count
@@ -128,7 +128,7 @@ Provides a high-level overview of:
 
 ---
 
-## 2️⃣ Operations
+## Operations
 Focused on:
 - Visit volume by department
 - Visit type distribution
@@ -139,7 +139,7 @@ Focused on:
 
 ---
 
-## 3️⃣ Financial Analytics 1
+## Financial Analytics 1
 Focused on:
 - Outstanding balances
 - Insurance coverage
@@ -150,7 +150,7 @@ Focused on:
 
 ---
 
-## 4️⃣ Financial Analytics 2
+## Financial Analytics 2
 Focused on:
 - Insurance provider analysis
 - Revenue by city
@@ -160,7 +160,7 @@ Focused on:
 
 ---
 
-# 💡 Key Insights
+#  Key Insights
 - Private hospitals generated the highest visit volume.
 - Readmission rates represented a significant operational KPI.
 - Insurance coverage had a major impact on outstanding balances.
@@ -169,7 +169,7 @@ Focused on:
 
 ---
 
-# 🚀 Recommendations
+#  Recommendations
 - Improve monitoring of high readmission departments.
 - Optimize billing and collection workflows.
 - Reduce outstanding balances through payment follow-up processes.
@@ -178,7 +178,7 @@ Focused on:
 
 ---
 
-# 📸 Dashboard Preview
+#  Dashboard Preview
 
 ## Executive Overview
 ![Executive Overview](executive-overview.png)
@@ -200,7 +200,7 @@ Focused on:
 
 ---
 
-# 📁 Project Files
+#  Project Files
 - Power BI Dashboard (.pbix)
 - Dashboard screenshots
 - Star schema model
@@ -209,6 +209,6 @@ Focused on:
 
 ---
 
-# 👤 Author
+# Author
 Ahmed Mohamed  
 Pharmacist & Data Analyst | Power BI | SQL | Python | Healthcare Analytics
